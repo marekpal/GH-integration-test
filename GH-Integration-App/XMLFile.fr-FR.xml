@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book id="1">
+    <title>Gestion de projet efficace, 7e édition; Traditionnel, Agile, Extrême</title>
+    <author>Robert K. Wysocki</author>
+    <description>La gestion de projet a subi des changements importants depuis l'édition précédente de ce livre. Ainsi, en plus des mises à jour reflétant le guide PMBOK, 5e édition, cette septième édition de la gestion de projet efficace aborde certains changements fondamentaux dans la nature d'un projet. Vous apprendrez une approche de la gestion de projet qui reconnaît l'environnement du projet et s'adapte en conséquence. Plutôt que des solutions universelles, vous apprendrez à penser, à examiner, à analyser et à sélectionner l'approche de gestion de projet la mieux adaptée à chaque projet individuel. Ce livre reste un texte efficace pour les formateurs et les éducateurs ainsi qu'un guide pratique pour les chefs de projet. Découvrir: Une compréhension approfondie des groupes de processus PMBOK Comment définir, planifier, lancer, surveiller, contrôler et fermer un projet TPM Techniques pour faire face au paysage PM complexe et incertain Une comparaison de linéaire, incrémental, itératif, adaptatif, et modèles PMLC Extreme Stratégies de prévention et d'intervention pour les projets en difficulté Conseils sur l'organisation de plusieurs projets d'équipe et la gestion d'un programme d'amélioration continue des processus Façons d'établir un processus de gestion de portefeuille de projets d'entreprise Comment créer un modèle pratique et basé sur des projets d'une entreprise</description>
+  </book>
+
+  <book id="2">
+    <title>Gestion efficace de projets logiciels</title>
+    <author>Robert K. Wysocki</author>
+    <description>Pourquoi un autre livre sur la gestion de projets logiciels? Depuis quelque temps, les domaines de la gestion de projet, de l'informatique et du développement de logiciels se développent rapidement et simultanément. Un soutien efficace pour l'entreprise exige la fusion de ces efforts dans une discipline coordonnée, qui intègre les meilleures pratiques des cycles de développement des systèmes et de gestion de projet. Robert K. Wysocki crée cette discipline dans ce livre - une référence facile pour les professionnels et les consultants ainsi qu'un manuel pour les étudiants en systèmes informatiques et en gestion de projet. De par leur nature même, les projets logiciels défient une approche «taille unique». Dans ces pages, vous apprendrez à appliquer les principes des meilleures pratiques tout en conservant la flexibilité essentielle au succès du développement logiciel.</description>
+  </book>
+</books>
